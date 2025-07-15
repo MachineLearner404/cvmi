@@ -5,3 +5,5 @@ pillow
 numpy
 torch
 torchvision
+google-cloud-aiplatform 
+google-cloud-logging 
